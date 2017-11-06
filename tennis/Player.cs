@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace tennis
 {
-    class Player
+    public class Player
     {
         public string name {get;set;}
         public int points{get;set;}

@@ -3,11 +3,13 @@ using System.Collections.Generic;
 
 namespace tennis
 {
-    public class Match
+    public class Match : IMatch
     {
-        private Player player1{get;set;}
-        private Player player2{get;set;}
-        int numberSets{get;set;}
+        public Player player1{get;set;}
+        public Player player2{get;set;}
+        public int numberSets{get;set;}
+
+        public Match() { }
 
         public Match(string name1, string name2, int numberSets)
         {
@@ -71,9 +73,11 @@ namespace tennis
             {
                 Console.WriteLine(string.Format("!!{0} gana el partido!!", player2.name).ToUpper());
             }
+
+            Console.ReadKey();
         }
 
-        bool IsSetFinished()
+        public bool IsSetFinished()
         {
             if(player1.games < 6 && player2.games < 6)
             {
@@ -127,7 +131,7 @@ namespace tennis
             player2.points = 0;
         }
 
-        bool IsGameFinished()
+        public bool IsGameFinished()
         {
             if(player1.points < 4 && player2.points < 4)
             {
@@ -146,7 +150,7 @@ namespace tennis
             }
         }
 
-        Player RandomPlayer()
+        public Player RandomPlayer()
         {                
             Random random = new Random();
             int index = random.Next(0, 2);

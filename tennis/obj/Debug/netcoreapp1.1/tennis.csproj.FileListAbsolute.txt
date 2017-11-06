@@ -1,0 +1,8 @@
+C:\Users\Pilar\Personal\tennis\tennis\bin\Debug\netcoreapp1.1\tennis.deps.json
+C:\Users\Pilar\Personal\tennis\tennis\bin\Debug\netcoreapp1.1\tennis.runtimeconfig.json
+C:\Users\Pilar\Personal\tennis\tennis\bin\Debug\netcoreapp1.1\tennis.runtimeconfig.dev.json
+C:\Users\Pilar\Personal\tennis\tennis\bin\Debug\netcoreapp1.1\tennis.dll
+C:\Users\Pilar\Personal\tennis\tennis\bin\Debug\netcoreapp1.1\tennis.pdb
+C:\Users\Pilar\Personal\tennis\tennis\obj\Debug\netcoreapp1.1\tennis.AssemblyInfo.cs
+C:\Users\Pilar\Personal\tennis\tennis\obj\Debug\netcoreapp1.1\tennis.dll
+C:\Users\Pilar\Personal\tennis\tennis\obj\Debug\netcoreapp1.1\tennis.pdb
