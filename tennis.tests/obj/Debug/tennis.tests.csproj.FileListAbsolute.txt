@@ -1,0 +1,15 @@
+C:\Users\Pilar\Personal\tennis\tennis.tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Pilar\Personal\tennis\tennis.tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Pilar\Personal\tennis\tennis.tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Pilar\Personal\tennis\tennis.tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Pilar\Personal\tennis\tennis.tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Pilar\Personal\tennis\tennis.tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Pilar\Personal\tennis\tennis.tests\bin\Debug\tennis.tests.dll
+C:\Users\Pilar\Personal\tennis\tennis.tests\bin\Debug\tennis.tests.pdb
+C:\Users\Pilar\Personal\tennis\tennis.tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Pilar\Personal\tennis\tennis.tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Pilar\Personal\tennis\tennis.tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Pilar\Personal\tennis\tennis.tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Pilar\Personal\tennis\tennis.tests\obj\Debug\tennis.tests.csprojResolveAssemblyReference.cache
+C:\Users\Pilar\Personal\tennis\tennis.tests\obj\Debug\tennis.tests.dll
+C:\Users\Pilar\Personal\tennis\tennis.tests\obj\Debug\tennis.tests.pdb

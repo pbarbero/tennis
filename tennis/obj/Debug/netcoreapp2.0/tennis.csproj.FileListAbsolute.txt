@@ -1,0 +1,9 @@
+C:\Users\Pilar\Personal\tennis\tennis\bin\Debug\netcoreapp2.0\tennis.deps.json
+C:\Users\Pilar\Personal\tennis\tennis\bin\Debug\netcoreapp2.0\tennis.runtimeconfig.json
+C:\Users\Pilar\Personal\tennis\tennis\bin\Debug\netcoreapp2.0\tennis.runtimeconfig.dev.json
+C:\Users\Pilar\Personal\tennis\tennis\bin\Debug\netcoreapp2.0\tennis.dll
+C:\Users\Pilar\Personal\tennis\tennis\bin\Debug\netcoreapp2.0\tennis.pdb
+C:\Users\Pilar\Personal\tennis\tennis\obj\Debug\netcoreapp2.0\tennis.AssemblyInfo.cs
+C:\Users\Pilar\Personal\tennis\tennis\obj\Debug\netcoreapp2.0\tennis.dll
+C:\Users\Pilar\Personal\tennis\tennis\obj\Debug\netcoreapp2.0\tennis.pdb
+C:\Users\Pilar\Personal\tennis\tennis\obj\Debug\netcoreapp2.0\tennis.csprojResolveAssemblyReference.cache

@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 2,
   "targets": {
     ".NETCoreApp,Version=v2.0": {
       "Microsoft.NETCore.App/2.0.0": {
@@ -194,7 +194,7 @@
           "lib/netstandard1.0/_._": {}
         },
         "build": {
-          "build/netstandard2.0/NETStandard.Library.targets": {}
+          "build/NETStandard.Library.targets": {}
         }
       }
     }
@@ -664,39 +664,23 @@
     ]
   },
   "packageFolders": {
-    "/home/pilar/.nuget/packages/": {},
-    "/home/pilar/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\Pilar\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/pilar/gteam/tennis/tennis.csproj",
+      "projectUniqueName": "C:\\Users\\Pilar\\Personal\\tennis\\tennis\\tennis.csproj",
       "projectName": "tennis",
-      "projectPath": "/home/pilar/gteam/tennis/tennis.csproj",
-      "packagesPath": "/home/pilar/.nuget/packages/",
-      "outputPath": "/home/pilar/gteam/tennis/obj/",
+      "projectPath": "C:\\Users\\Pilar\\Personal\\tennis\\tennis\\tennis.csproj",
+      "outputPath": "C:\\Users\\Pilar\\Personal\\tennis\\tennis\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "/home/pilar/dotnet/sdk/NuGetFallbackFolder"
-      ],
-      "configFilePaths": [
-        "/home/pilar/.nuget/NuGet/NuGet.Config"
-      ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
-      "sources": {
-        "https://api.nuget.org/v3/index.json": {}
-      },
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {}
         }
-      },
-      "warningProperties": {
-        "warnAsError": [
-          "NU1605"
-        ]
       }
     },
     "frameworks": {
@@ -704,15 +688,10 @@
         "dependencies": {
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "2.0.0",
+            "version": "2.0",
             "autoReferenced": true
           }
-        },
-        "imports": [
-          "net461"
-        ],
-        "assetTargetFallback": true,
-        "warn": true
+        }
       }
     }
   }
