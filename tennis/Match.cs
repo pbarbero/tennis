@@ -73,8 +73,6 @@ namespace tennis
             {
                 Console.WriteLine(string.Format("!!{0} gana el partido!!", player2.name).ToUpper());
             }
-
-            Console.ReadKey();
         }
 
         public bool IsSetFinished()
